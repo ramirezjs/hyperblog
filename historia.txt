@@ -9,3 +9,4 @@ master 2
 mañana nos enfocaremos en su vida laboral
 
 clase de cherry-pick
+incluye ejemplos en windows
