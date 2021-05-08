@@ -9,3 +9,6 @@ master 2
 mañana nos enfocaremos en su vida laboral
 
 clase de cherry-pick
+clase de cherry-pick
+incluye ejemplos en windows
+disponible para todas las edades
